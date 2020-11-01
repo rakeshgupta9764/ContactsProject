@@ -3,8 +3,9 @@ A phonebook console app with add, list, search, edit, count, delete functionalit
 It uses serialization to save the data to a file.
 A lot can be improved still.
 If you want, you can try the following things:-
-todo:
+
+_todo:_
 - Improve search.
 - Sort and organize the data.
 - Improve serialization.
-- Less dependence on fields of concrete class, etc.
+- Less dependence on fields of respective concrete classes, etc.
